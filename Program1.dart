@@ -6,9 +6,9 @@ void main() {
 
   String school = "plp Academy"; // variable for school
 
-  String hobby = "Singing";
+  String hobby = "Singing and coding";
 
   //Printing out the personal information using string interpolation
   print(
-      "My name is $name, I am $age years old, I am a student of $school, and my hobby is $hobby.");
+      "My name is $name, I am $age years old, I am a student of $school, and my hobbies are $hobby.");
 }
