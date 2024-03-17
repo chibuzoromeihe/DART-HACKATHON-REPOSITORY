@@ -1,7 +1,7 @@
 import "dart:io";
 
 void main() {
-  print("Please entre your mark: ");
+  print("Please! entre your mark: ");
   int marks = int.parse(stdin.readLineSync()!); // take the user mark
 
 //check if the mark is greater than 85
